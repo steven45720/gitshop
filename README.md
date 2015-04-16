@@ -1,5 +1,5 @@
 # Git Shop
-Overview:  Students will learn how to use the power of collaboration through Git/GitHub by forking a repository and making their own personal changes, then merging those changes togethe
+**__Overview:__**  Students will learn how to use the power of collaboration through Git/GitHub by forking a repository and making their own personal changes, then merging those changes togethe
 
 1. Login to github.com
 2. Fork this repository
